@@ -4,7 +4,7 @@
 
 You are a busy person. Working to change the world, overcoming obstacles, and filtering through the noise is sometimes burdensome. Let us help.
 
-You'll enjoy accomplishing goals with others when it's wrapped in a game that's engaging, meaningful, and probably most especially, if you can win crypto for playing!
+You'll enjoy accomplishing goals with others if it's wrapped in a game that's engaging, meaningful, and maybe when you win `crypto` for playing!
 
 Groups form around interest groups, industries, communities, or any other social structure to self-regulate and advance together.
 
@@ -27,3 +27,42 @@ Achievements are validated by a peer and attached to your group's permanent ledg
 </div>
 
 <!--End mc_embed_signup-->
+
+## How the Game Works
+
+Players accept challenges, herein _Hustles_, posted by other players. These challenges range a gamut between real-world and virtual experiences, all aiming to help players connect and level up.
+
+Leveling up is desired because the software is designed to only allow access to features if players have earned enough validated experience and have discovered the proper Passkey.
+
+For example, all players can post articles and interact with the group but only level 12 players can post products or only level 20 players can post courses and only level 100 can post _Hustles_.
+
+Furthermore, the amount of potential to gain market exposure is fair and real-time calculations derive real-time rankings. So you can't just buy the top spot. It must be earned amongst fair competition.
+
+## Why Tokin?
+
+* Solves social issues with transparancy
+* Pursues thoughtful secrecy
+* 100% player-owned and operated
+* Builds teams with realistic analysis
+
+### Privacy is a myth
+
+Who can operate in the shadows if we cast light everywhere? Who would feel ashamed being naked when everyone else is naked?
+
+Tokin takes the stance that only what you don't say can remain private. What you do say is telling about who you are and what you believe in. These values help the community understand what you're about and what you need.
+
+### Disclosure is common-sense.
+
+You can contract with whomever you wish, and we'll give you the most badass, cutting-edge, cryptographic tools and systems to use.
+
+But, let's not kid ourselves. Every system of keeping secrets will eventually be cracked so the earlier we adopt radical openness into our culture, the safer and more prosperous we'll be.
+
+### We are legion
+
+The very foundation of Tokin is a game and a game is the participation of players who agree to rules and contribute effort into the game. The equitable financial ownership is meritocrally bestowed to all players.
+
+Also, people make mistakes. That doesn't mean we give up on them. Instead, we encourage demonstrable proofs of purpose to gain trust back.
+
+### Find your place and position
+
+Use advanced analytic tools to save time networking and avoid trial-and-error. You'll choose from a list of great choices and activities instead of shooting in the dark.
