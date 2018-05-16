@@ -1,3 +1,7 @@
+# Be.in the loop!
+
+If you grok the smell we're cooking and can't wait to eat, use the simple form below to join the community.
+
 <!-- Begin MailChimp Signup Form -->
 
 <div id="mc_embed_signup" style="padding: 1em; background:#cccccc; width:100%; overflow:hidden;">
