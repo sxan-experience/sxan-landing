@@ -1,5 +1,9 @@
+---
+footer: MIT Licensed | Copyright © 2018-present Tokin
+---
+
 `UNDER DEVELOPMENT`
-![An image](./assets/tokin_logo_big.png)
+<img src="https://hdwallsbox.com/wallpapers/m/12/mario-super-luigi-princess-peach-kart-nintendo-16-bit-m11390.jpg" style="width:100%; text-align: center">
 
 # Gaming Purposified
 
@@ -41,10 +45,13 @@ Furthermore, the amount of potential to gain market exposure is fair and real-ti
 
 ## Why Tokin?
 
+::: tip We're Fun and Considerate
+
 * Solves social issues with transparancy
 * Pursues thoughtful secrecy
 * 100% player-owned and operated
 * Builds teams through realistic analysis
+  :::
 
 ### Privacy is a myth
 
@@ -55,8 +62,9 @@ Tokin takes the stance that only what you don't say can remain private. What you
 ### Disclosure is common-sense.
 
 You can contract with whomever you wish, and we'll give you the most badass, cutting-edge, cryptographic tools and systems to use.
-
-But, let's not kid ourselves. Every system of keeping secrets will eventually be cracked so the earlier we adopt radical openness into our culture, the safer and more prosperous we'll be.
+::: danger But, let's not kid ourselves.
+Every system of keeping secrets will eventually be cracked so the earlier we adopt radical openness into our culture, the safer and more prosperous we'll be.
+:::
 
 ### We are legion
 
@@ -89,8 +97,10 @@ If there's no rush: [admin@tokin.io](mailto:admin@tokin.io)
 
 ##
 
-# Thank You,
+::: tip Thank You
+Austin, Dylan, Victoria, Alex, Nick, Pat, Erica, Tai, Eric, TiE, George, Mikey, Leo, Mark, Mom and Dad, Melissa
+:::
 
-Austin, Dylan, Victoria, Alex, Nick, Pat, Erica, Tai, Eric, TiE, George, Mikey, Leo, and Mark
-
-##
+<style>
+.navbar .site-name {background:url(./assets/tokin_logo_big.png) no-repeat; color:rgba(0,0,0,0); background-size:100% auto; font-size: 3rem}
+</style>

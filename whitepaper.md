@@ -4,19 +4,20 @@ meta:
     content: tokin whitepaper
   - name: keywords
     content: whitepaper, plans, token sale, economics, game, game theory, crypto, blockchain, erlang, otp
+sidebarDepth: 1
 ---
 
 `Under Development`
 
 # Tokin Whitepaper
 
-## _The purpose of pursuit_
+> _**The purpose of pursuit**_
 
 We offer a digital platform for self-awareness by analyzing activities in specific networks, communities, and interest groups. Tokin is introduced as a GAME to engage and retain players for the betterment of the players and the groups they contribute towards.
 
 Players join networks they care about because gameplay with purpose amongst peers gives validated reputations, trusted transactions, and transparent recognition of achievements.
 
-### Benefits
+::: tip Benefits
 
 * Challenges reveal latent and obvious opportunities in a fun, rewarding format
 
@@ -25,18 +26,15 @@ Players join networks they care about because gameplay with purpose amongst peer
 * Immutability enhances protection from mistakes, bad actors, and unforeseen situations
 
 * Fair Play decentralizes power structures to create meritocratic, equal advancement.
+  :::
 
-# MISSION & VALUES
+## Mission & Values
 
 The difference between mob mentality and democracy is separated by a thin veil of education and intention. On one side of the veil is ignorance, a trait humans have an innate, natural affinity for. The other side is awareness, a trait that takes hard work and vigilance to realize consistently.
 
 Manipulators enjoy open-access to our hopes and dreams. They latch-on unnoticed through subtle channels, but they must be invited in by the dreamer! With awareness, a dreamer obliterates the effect of bad actors.
 
-### Innovations
-
-Striding towards social and technological superiority
-
-#### Social Impact
+### Social Impact
 
 In a world of general social networks, it’s hard to determine the true quality of community members. By isolating interest groups in their own networks, Tokin provides a superb layer of reputation management and meaningful connections, validated by the interest group, to support the shared goals of people and teams.
 
@@ -46,101 +44,105 @@ People like fun. People like achieving. The evolution of Tokin brought us to the
 
 Finally, we introduce the concept of Flexuity, or flexible equity. Like the volatile nature of ethereal currencies in real-time, a player receives rewards and voting power relative to the efforts and effects of all other players in the networks. This results in leadership that’s decentralized, trusted, and meritocratic.
 
-#### Advancing Technologies
+### Advancing Technologies
 
-GraphChain
+#### GraphChain
 
-Tokin uses Erlang/OTP! to provide a robust and future-facing immutable DAG ledger. This implementation allows child-chain creation and thoughtful rules for child-chain merging. A further advantage of a graph over linear blockchains is the opportunity to apply data-science towards the relationships, qualities, and patterns of connections.
+> Tokin uses Erlang/OTP! to provide a robust and future-facing immutable DAG ledger. This implementation allows child-chain creation and thoughtful rules for child-chain merging. A further advantage of a graph over linear blockchains is the opportunity to apply data-science towards the relationships, qualities, and patterns of connections.
 
-Smart Contract
+#### Smart Contract
 
-System built for 2-way functionality, i.e. push notifications and pull responses. Each network transaction has pub/sub capabilities enabled allowing for humans and bots to act upon conditions in the network, over any specified timeframe, with incentives baked into the network to cover processing costs. These functions form the basis for every engagement in the game, including transactions.
+> System built for 2-way functionality, i.e. push notifications and pull responses. Each network transaction has pub/sub capabilities enabled allowing for humans and bots to act upon conditions in the network, over any specified timeframe, with incentives baked into the network to cover processing costs. These functions form the basis for every engagement in the game, including transactions.
 
-Lock and Stash
+#### Hash and Stash
 
-Although PGP privacy (public/private keys, signing certificates) is pretty good, it’s obviously susceptible to forms of phishing and cracking. We’ve developed a protocol to add adjustable levels of complexity through simple maths and common sense.
+> Although PGP privacy (public/private keys, signing certificates) is pretty good, it’s obviously susceptible to forms of phishing and cracking. We’ve developed a protocol to add adjustable levels of complexity through simple maths and common sense.
 
-The logic of trust in Tokin systems presents players with options to balance speed and integrity. Some transactions may be public with zero-risk, propagate through the network at top speed using trustless verifications. More sensitive transactions propagate with enhanced levels of security via the Lock and Stash mechanism, taking more time to propagate to better preserve confidentiality.
+::: warning The logic of trust in Tokin systems presents players with options to balance speed and integrity.
+Some transactions may be public with zero-risk, propagate through the network at top speed using trustless verifications. More sensitive transactions propagate with enhanced levels of security via the Lock and Stash mechanism, taking more time to propagate to better preserve confidentiality.
+:::
 
-Zippering
+#### Zippering
 
-Re-incorporate children chains into the main chain with full accounting of fundamentals and value trajectories. With Zippering, there is no lost value upon organizational dissolution and, after being sufficiently proven on a child chain, tech updates become adopted into the main chain.
+> Re-incorporate children chains into the main chain with full accounting of fundamentals and value trajectories. With Zippering, there is no lost value upon organizational dissolution and, after being sufficiently proven on a child chain, tech updates become adopted into the main chain.
 
-GDN (Graphchain Delivery Network)
+#### GDN (Graphchain Delivery Network)
 
-Pruning is a blockchain mechanism where space is saved by removing seemingly useless blockchain data. There are inherent dangers with pruning blockchains because it arbitrarily manipulates the ledger, creating a greater possibility for fraud. However, reversing the pruning concept and applying content delivery network thinking gives us a unique advantage. Instead of pruning the dead weight, the network optimizes parts of the Graphchain keep the most relevant connections on the closest fastest caches, by time and location to a player. This is still open to dangers, so the network can take the long road for additional verifications but most activities will benefit.
+> Pruning is a blockchain mechanism where space is saved by removing seemingly useless blockchain data. There are inherent dangers with pruning blockchains because it arbitrarily manipulates the ledger, creating a greater possibility for fraud. However, reversing the pruning concept and applying content delivery network thinking gives us a unique advantage. Instead of pruning the dead weight, the network optimizes parts of the Graphchain keep the most relevant connections on the closest fastest caches, by time and location to a player. This is still open to dangers, so the network can take the long road for additional verifications but most activities will benefit.
 
-BlockTrain
+#### BlockTrain
 
-Addressing the problem of growing data by sending concerted data around an immutable circuit like trains on a track. Instead of each node replicating the entire Graphchain, the system sends data across the network in redundant cycles so that nodes never hold the entire chain, only fragments as they arrive and depart the node station. Quickly and accurately determines where the data is at a given moment and handles real-time network traffic considerations, i.e. dealing with bottlenecks or deactivated resources. Network nodes can keep as much of the GraphChain they wish but most will opt-in to the BlockTrain protocol.
+> Addressing the problem of growing data by sending concerted data around an immutable circuit like trains on a track. Instead of each node replicating the entire Graphchain, the system sends data across the network in redundant cycles so that nodes never hold the entire chain, only fragments as they arrive and depart the node station. Quickly and accurately determines where the data is at a given moment and handles real-time network traffic considerations, i.e. dealing with bottlenecks or deactivated resources. Network nodes can keep as much of the GraphChain they wish but most will opt-in to the BlockTrain protocol.
 
-![](https://lh3.googleusercontent.com/hmlWb-B84xwG4cgc4rnUZUOFvTNZYEr7xBcOVqc44MgQ1OCMegKIECqv0NVPSrgLUL5jHmKAQTkITxMWPt5__YvXOarPlFXZiABGoPv3TMY0RMLiaZY-eBj37Kcxq_M6DvdGACEF)
-
-### Economic Freedoms
+## Economic Freedoms
 
 Coins, keys, and shares (coins, keys, and shares) in Tokin, players replace the need for financial middleware or 3rd-party identity verification. There is no need for banks, governments, or OAUTH providers. Player identities are verified once, then added to the graphchain with the highest level of security.
 
-#### Accessibility
+### Accessibility
 
 Anyone can play and build Tokin. coins are rewarded in the game as achievement rewards. coins will also be paired on exchanges and we’ll include Atomic Swap technology soon.
 
 Interest groups choose the level of authentication necessary for operation. Players can stay anonymous in the meta-Tokin network (those building Tokin) or other groups with minimum identity requirements. Players have the ability to earn coins regardless of where or who they are, without the ability to interact in groups who demand higher levels of authentication.
 
-#### Decentralization
+### Decentralization
 
-The network and protocols are open-source technologies with improvements to continually innovate as needed. Any cloud provider or private device can participate by running our Node.js server. Available for Linux, OSX, iOS, and Android. Although anyone can fork the technology, it benefits almost all players and groups to contribute to the main network. Tokin systems are optimized to scale. The bigger the network, the faster the transactions, and better the ability to prevent double-spend or catch other cheats.
+The network and protocols are open-source technologies with improvements to continually innovate as needed. Any cloud provider or private device can participate by running our Node.js server. Available for Linux, OSX, iOS, and Android. Although anyone can fork the technology, it benefits almost all players and groups to contribute to the main network.
 
-### Technology
+::: tip Tokin systems are optimized to scale.
+The bigger the network, the faster the transactions, and better the ability to prevent double-spend or catch other cheats.
+:::
 
-#### Open-source
+## Technology
 
-[https://github.com/Tokin-experience](https://github.com/sxan-experience)
+### Open-source
+
+[https://github.com/Tokin-experience](https://github.com/tokin-experience)
 
 All projects MIT License.
 
-#### Peer-review
+### Peer-review
 
 Show broad and specific feedback from an audience that is technologically-validated and un-incentivized. ( ph.d or equiv.)
 
-### Development Team
+## Development Team
 
-#### Mark Candaras
+### Mark Candaras
 
 Systems architect, full-stack developer
 
-#### Eric Glassman
+### Eric Glassman
 
 Javascript and Python Developer
 
-#### Nick Traitorous
+### Nick Traitorous
 
 Javascript, Manager
 
-#### Patrick Long
+### Patrick Long
 
 C++, Javascript
 
-#### Alexander MacNeill
+### Alexander MacNeill
 
 Javascript, Automations
 
-#### Austin Renauldi
+### Austin Renauldi
 
 Narrative, Design
 
-#### Dylan Korelich
+### Dylan Korelich
 
 Alchemy of Creation, Design
 
-### Consensus
+## Consensus
 
-#### Legislation
+### Legislation
 
 Topics of interest to discuss are detected by bots and delivered to interested players to escalate to their yeoman. Players vote whether any generated topics are important to them, and results are tallied to check if it’s an issue across networks or local to specific networks.
 
 If it’s a local issue, the interest group is free to legislate internally according to their own rules. If the issue is global, then it falls under the jurisdiction of the Assembly. Decisions are made by the Assembly -- a consensus of players and bots.
 
-#### Components of the Assembly
+### Components of the Assembly
 
 * Components - Total Votes: All players / 2 (33.333%)  
   Entities voted into the Assembly by a ¾ majority of interest group delegates and nominated by the Yeoman. Additions and retractions to this founder agreement are applied to appendices by a ⅔ majority of the Core. The Core can vote on possible courses of action and has votes equal to half the total number of players in all interest groups.
@@ -153,67 +155,69 @@ If it’s a local issue, the interest group is free to legislate internally acco
 
 [INSERT GRAPHIC OF DECISION PROCESS]
 
-### Blockchain type
+## Blockchain type
 
-We built a fractal Graphchain using Hyperledger Fabric Erlang! with DAG (Directed Acyclic Graph) database architecture. Instead of a linear blockchain, this Graphchain gives the network powers and options to best achieve various goals and outcomes. Our implementation is best thought of as an immutable library covered in a decentralized nervous system.
+We built a fractal Graphchain using Erlang with a DAG (Directed Acyclic Graph) database architecture. Instead of a linear blockchain, this Graphchain gives the network powers and options to best achieve various goals and outcomes. Our implementation is best thought of as an immutable library covered in a decentralized nervous system.
 
-### Protocols
+## Protocols
 
-#### Lock and Stash
+::: warning Lock and Stash
 
 A node first encrypts some content, slices the encrypted content into data chunks, then inserts these chunks into random blobs on the Graphchain, and finally sends the map of chunk locations to the intended audience. The sender provides a private key, via a separate channel or node, to the audience. The audience can only receive the content if they have both the map and private key.
+:::
 
 [INSERT GRAPHIC OF LOCK N STASH]
 
-#### qBitcoin
+::: warning qBitcoin
 
 (upcoming implementation)
 
 Quantum-proofing the chains by incorporating mechanisms for changing the public or private keys whenever content is viewed or updated.
+:::
 
-### Proofs
+## Proofs
 
-#### Proof of Random Stake
+### Proof of Random Stake
 
-Nodes who keep a minimum portion of coins on reserve are entered into a lottery for minting/mining. This is the basis for minting coins.
+> Nodes who keep a minimum portion of coins on reserve are entered into a lottery for minting/mining. This is the basis for minting coins.
 
 [INSERT GRAPHIC OF RANDOM STAKE]
 
-#### Proof of Shape
+### Proof of Shape
 
-Players and bots will often engage in repetitive behaviors with each behavior consisting of a handful of evident facts. These collected facts form a shape, distinguishable to provide a lightning-fast proof.
+> Players and bots will often engage in repetitive behaviors with each behavior consisting of a handful of evident facts. These collected facts form a shape, distinguishable to provide a lightning-fast proof.
 
 [INSERT GRAPHIC OF PROOF OF SHAPE]
 
-#### Proof of Activity
+Proof of Activity
 
-Each entry to the chain can latch itself to a past entry, increasing validation to that entry and creating a traceable family-tree of trusted activities.
+> Each entry to the chain can latch itself to a past entry, increasing validation to that entry and creating a traceable family-tree of trusted activities.
 
 [INSERT GRAPHIC OF PROOF OF ACTIVITY]
 
-#### Proof of Continuum
+### Proof of Continuum
 
-Temporal signal-proofing strategy. Connections between n peers persistently stream bytes within deterministic patterns, such as Morse Code. This continuity stream is queried for validations, limited or extended as needs dictate, ultimately providing for instant trustless proofability.
+> Temporal signal-proofing strategy. Connections between n peers persistently stream bytes within deterministic patterns, such as Morse Code. This continuity stream is queried for validations, limited or extended as needs dictate, ultimately providing for instant trustless proofability.
 
 [INSERT GRAPHIC OF PROOF OF CONTINUUM]
 
-### Roadmap
+## Roadmap
 
 [INSERT INFOGRAPHIC ROADMAP]
 
-#### 2016
+### 2016
 
 * Built prototype
 
 * Applied sales strategies to a test market
 
-#### 2017
+### 2017
 
 * Assembled team to launch
 
 * Reconfigured app and team into a game
 
-#### 2018
+### 2018
 
 * Designed v2
 
@@ -227,7 +231,7 @@ Temporal signal-proofing strategy. Connections between n peers persistently stre
 
 * World tour - spreading the word
 
-#### 2019
+### 2019
 
 * Token offering
 * Develop Decentralized Neural Computational Graphchain  
@@ -250,15 +254,15 @@ Temporal signal-proofing strategy. Connections between n peers persistently stre
 
 - Purchase real-estate and shares in original art to guarantee coins liquidity
 
-### _ECONOMICS_
+## _ECONOMICS_
 
-#### Token Type
+### Token Type
 
-Hyperledger Fabric, proprietary open-source build.
+Hyperledger Sawtooth, proprietary open-source build.
 
 [INSERT GRAPHIC OF BLOCKCHAINS W/ FEATURES v. COMPETITIVE TECH]
 
-#### Token Utility
+### Token Utility
 
 * coins are used to reward players in the game and nodes participating in the network. coins are primarily used to publish content and transact with other players or bots. coins may also be traded off-network.
 
@@ -268,7 +272,7 @@ Hyperledger Fabric, proprietary open-source build.
 
 [INSERT GRAPHICS OF TOKEN USE]
 
-#### _Incentives and penalties_
+### _Incentives and penalties_
 
 * Compression
 
@@ -288,15 +292,15 @@ Hyperledger Fabric, proprietary open-source build.
 
 What automatic costs incur upon sloppy or antagonistic behaviours on the network?
 
-#### _Inflation rules_
+### _Inflation rules_
 
-#### How does a coins programmatically inflate, deflate, or stabilize against a volatile market?
+### How does a coins programmatically inflate, deflate, or stabilize against a volatile market?
 
-#### _Token sale_
+### _Token sale_
 
 Discuss security, transparency, equality, supply limitations, team ownership stakes, and code of ethics.
 
-### _Penetration Tests_
+## _Penetration Tests_
 
 Network and load-ramping security vulnerabilities through bug/flag finding bounty program.
 
@@ -310,9 +314,9 @@ _Fully-compliant with applicable securities laws_
 
 Not structured according to Coinbase Securities Law Framework. Compliant with Anti-money Laundering laws and partnered with Money-transmitter licensed entities
 
-### _MARKET_
+## _MARKET_
 
-#### _Capitalization_
+### _Capitalization_
 
 % of value of the digital currency marketplace.
 
@@ -320,30 +324,32 @@ Not structured according to Coinbase Securities Law Framework. Compliant with An
 
 Volume of trade and transactions
 
-#### _Circulation_
+### _Circulation_
 
 How many coins have been created and released?
 
-#### _Exchanges_
+### _Exchanges_
 
 What exchanges are currently or planning to list coins?
 
-#### _Fiat/crypto pairs_
+### _Fiat/crypto pairs_
 
 Buying/Selling coins with other cryptos and currencies
 
-#### _Demand_
+### _Demand_
 
 Show market demand through analytics, validated email captures, pre-sales, and media attention.
 
-#### _Software contributors_
+### _Software contributors_
 
 Proof of interest and longevity is shown through a large contributor base with high-frequency contributions.
 
-#### _Active community_
+### _Active community_
 
 Showing activity and ease-of-access to online communities and forums. Responsiveness from the team.
 
-#### _Stakeholders_
+### _Stakeholders_
 
 Who has skin in the game
+
+![](https://lh3.googleusercontent.com/hmlWb-B84xwG4cgc4rnUZUOFvTNZYEr7xBcOVqc44MgQ1OCMegKIECqv0NVPSrgLUL5jHmKAQTkITxMWPt5__YvXOarPlFXZiABGoPv3TMY0RMLiaZY-eBj37Kcxq_M6DvdGACEF)

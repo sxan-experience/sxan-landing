@@ -1,3 +1,9 @@
+---
+sidebarDepth: 2
+---
+
+<img src="https://dontfeedthegamers.com/wp-content/uploads/2017/01/double-dragon-iv-boss-1024x576.jpg" style="width:100%; text-align: center">
+
 # Be.in the loop!
 
 If you grok the smell we're cooking and can't wait to eat, use the simple form below to join the community.
