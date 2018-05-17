@@ -78,7 +78,7 @@ Use advanced analytic tools to save time networking and avoid trial-and-error. Y
 
 ## Let's connect
 
-The best way to get us to respond quickly is to make an issue on any of our Github repositories: [Tokin Software](https://github.com/tokin-systems)
+The best way to get us to respond quickly is to make an issue on any of our Github repositories: [Tokin Software](https://github.com/tokin-systems/)
 
 If there's no rush: [admin@tokin.io](mailto:admin@tokin.io)
 

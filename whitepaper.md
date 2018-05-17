@@ -86,7 +86,7 @@ Interest groups choose the level of authentication necessary for operation. Play
 
 ### Decentralization
 
-The network and protocols are open-source technologies with improvements to continually innovate as needed. Any cloud provider or private device can participate by running our Node.js server. Available for Linux, OSX, iOS, and Android. Although anyone can fork the technology, it benefits almost all players and groups to contribute to the main network.
+The network and protocols are open-source technologies with improvements to continually innovate as needed. Any cloud provider or private device can participate by running our server node. Available for Linux, OSX, iOS, and Android. Although anyone can fork the technology, it benefits almost all players and groups to contribute to the main network.
 
 ::: tip Tokin systems are optimized to scale.
 The bigger the network, the faster the transactions, and better the ability to prevent double-spend or catch other cheats.
@@ -96,7 +96,7 @@ The bigger the network, the faster the transactions, and better the ability to p
 
 ### Open-source
 
-[https://github.com/Tokin-experience](https://github.com/tokin-experience)
+[https://github.com/tokin-systems/](https://github.com/tokin-systems/)
 
 All projects MIT License.
 
