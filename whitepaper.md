@@ -76,7 +76,7 @@ Some transactions may be public with zero-risk, propagate through the network at
 
 ## Economic Freedoms
 
-Coins, keys, and shares (coins, keys, and shares) in Tokin, players replace the need for financial middleware or 3rd-party identity verification. There is no need for banks, governments, or OAUTH providers. Player identities are verified once, then added to the graphchain with the highest level of security.
+Coins, keys, and shares in Tokin, players replace the need for financial middleware or 3rd-party identity verification. There is no need for banks, governments, or OAUTH providers. Player identities are verified once, then added to the graphchain with the highest level of security. 
 
 ### Accessibility
 
@@ -268,7 +268,7 @@ Hyperledger Sawtooth, proprietary open-source build.
 
 * keys allow permissions in the game for certain activities, including but not limited to, publishing content, products, challenges, courses, and access to special events.
 
-* shares are privately-traded shares in the company Tokin. Shares pay dividends via fiat currency. The Assembly creates, distributes, buys-back shares, and supervises refinement of the Flexuity algorithms for mitigating volatile external inflation/deflation, i.e. exchanges.
+* shares are privately-traded shares in the company Tokin. In turn, the company is owned by a public trust made up of all players. Shares pay dividends via fiat currency. The Assembly creates, distributes, buys-back shares, and supervises refinement of the Flexuity algorithms for mitigating volatile external inflation/deflation, i.e. exchange and whale attacks.
 
 [INSERT GRAPHICS OF TOKEN USE]
 
@@ -353,3 +353,8 @@ Showing activity and ease-of-access to online communities and forums. Responsive
 Who has skin in the game
 
 ![](https://lh3.googleusercontent.com/hmlWb-B84xwG4cgc4rnUZUOFvTNZYEr7xBcOVqc44MgQ1OCMegKIECqv0NVPSrgLUL5jHmKAQTkITxMWPt5__YvXOarPlFXZiABGoPv3TMY0RMLiaZY-eBj37Kcxq_M6DvdGACEF)
+
+<style>
+.navbar .site-name {background:url(./assets/tokin_logo_big.png) no-repeat; color:rgba(0,0,0,0); background-size:100% auto; font-size: 3rem}
+input, .links.search-box input {border-radius: .25em!important; border: none}
+</style>
