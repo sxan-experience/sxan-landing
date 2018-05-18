@@ -7,15 +7,17 @@ footer: MIT Licensed | Copyright © 2018-present Tokin
 
 # Gaming Purposified
 
-You are a busy person. Overcoming obstacles and filtering through the noise is often burdensome and distracting. You're used to playing the odds that given enough efforts, you'll achieve the goal.
+You are a busy person. Overcoming obstacles and filtering through the noise is often burdensome and distracting. Insisting that with enough effort you'll achieve goals and such.
 
 This is true! But what if we gave you ways to work within way better odds?
 
-With Tokin, you'll enjoy accomplishing goals with others. Tokin is a real-time, real-world game for building teams and finding opportunities within your interest groups. You'll also win `crypto` for playing and be a part owner of the company!
+Tokin is a real-time, real-world MMO game for building teams and finding opportunities within your interest groups. You'll win `crypto` for playing and be a part owner of the company!
 
-> It's important that we congregate into various interest groups, industries, and communities.
+> It's important that we coalesce into purpose groups in order to best serve actual productivity. We recommend many social networks to extend fictions and fabricate intricate, titillatingly well-placed misnomers. Tokin is a _reality-based_ alternative due to serving specific purpose groups
 
-Achievements validated by group peers and attached to your group's permanent ledger. Your peers will notice how you are leveling up. The pursuit of purpose, in the form of a game.
+Achievements validated by peers from your purpose groups and attached to your group's permanent ledger. Your peers will notice how you are leveling up. The pursuit of purpose, in the form of a game.
+
+Aside from the game, think of Tokin as the extroverted Slack.
 
 <!-- Begin MailChimp Signup Form -->
 
@@ -37,11 +39,11 @@ Achievements validated by group peers and attached to your group's permanent led
 
 ## How the Game Works
 
-Players accept challenges, herein _Hustles_, posted by other players. These challenges range a gamut between real-world and virtual experiences, all aiming to help players connect and level up.
+Players accept challenges, herein _Hustles_, posted by other players. These challenges range a gamut between real-world and virtual experiences, all aiming to help players connect and level up. Btw, each successful hustle comes with a range of rewards.
 
 Leveling up is desired because the software is designed to only allow access to features if players have earned enough validated experience and have discovered the proper Passkey.
 
-For example, all players can post articles and interact with the group but only level 12 players can post products or only level 20 players can post courses and only level 100 can post _Hustles_.
+For example, all players can post articles and interact with the group but only level 12 players can post products, or only level 20 players can post courses, and only level 100 can actually post _Hustles_.
 
 Furthermore, the amount of potential to gain market exposure is fair and real-time calculations derive real-time rankings. So you can't just buy the top spot. It must be earned amongst fair competition.
 
@@ -131,3 +133,23 @@ h1, h3, h5, code, em {
     font-style: italic;
 }
 </style>
+
+<script>
+export default {
+    data () {
+        return {joke: 'not funny'}
+    },
+  mounted () {
+    import('./node_modules/axios/').then(module => {
+      // use code
+      const axios = module.default;
+      axios.get('https://scanna.firebaseio.com/comments.json')
+      .then((res) => {
+          this.joke = res.data
+        console.log(res.data)
+        // state.resData = res.data
+      })
+    })
+  }
+}
+</script>
