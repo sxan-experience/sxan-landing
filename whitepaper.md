@@ -11,7 +11,11 @@ sidebarDepth: 1
 
 # Tokin Whitepaper
 
-> _**The purpose of pursuit**_
+> _The purpose of pursuit_
+
+[[toc]]
+
+## Overview
 
 We offer a digital platform for self-awareness by analyzing activities in specific networks, communities, and interest groups. Tokin is introduced as a GAME to engage and retain players for the betterment of the players and the groups they contribute towards.
 
@@ -76,7 +80,14 @@ Some transactions may be public with zero-risk, propagate through the network at
 
 ## Economic Freedoms
 
-Coins, keys, and shares in Tokin, players replace the need for financial middleware or 3rd-party identity verification. There is no need for banks, governments, or OAUTH providers. Player identities are verified once, then added to the graphchain with the highest level of security. 
+Players replace the need for financial middleware or 3rd-party identity verification. There is no need for banks, governments, or OAUTH providers. Player identities are verified once, then added to the graphchain with the highest level of security.
+::: tip Tokens
+Coins - **Tik** ,**Tok**: 1,000 Tiks to a Tok. This widget's price is 5 _Toks_ and 350 _Tiks_. I'll trade 15 _Tok_ for $225 fiat.
+
+Keys - **Oki**: You can't post hustles until discovering the _Hustle Oki_ after level 100. Did you get the _Oki_ for my birthday party?
+
+Shares - **Kin**: the players own 100% of the company's reserve _Kin_. My 1200 _Kin_ delivered 300 _Toks_ into my account this month.
+:::
 
 ### Accessibility
 
@@ -294,7 +305,7 @@ What automatic costs incur upon sloppy or antagonistic behaviours on the network
 
 ### _Inflation rules_
 
-### How does a coins programmatically inflate, deflate, or stabilize against a volatile market?
+### How does a coin programmatically inflate, deflate, or stabilize against a volatile market?
 
 ### _Token sale_
 
@@ -356,5 +367,32 @@ Who has skin in the game
 
 <style>
 .navbar .site-name {background:url(./assets/tokin_logo_big.png) no-repeat; color:rgba(0,0,0,0); background-size:100% auto; font-size: 3rem}
-input, .links.search-box input {border-radius: .25em!important; border: none}
+
+input, .links.search-box input {border-radius: .25em!important; border: none; font-family: Aino}
+
+@font-face {
+    font-family: Aino;
+    src: url("./assets/fonts/Aino_31_170411-Regular.woff") format("woff"), url("./assets/fonts/Aino-Regular.ttf")  format("truetype");
+}
+@font-face {
+    font-family: Aino;
+    src: url("./assets/fonts/Aino-Headline.woff") format("woff"), url("./assets/fonts/AinoHeadline.ttf")  format("truetype");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Aino,-apple-system, BlinkMacSystemFont, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    src: url("./assets/fonts/Aino_31_170411-Bold.woff") format("woff"), url("./assets/fonts/Aino-Bold.ttf")  format("truetype");
+    font-style: bold;
+}
+* {
+    font-family: Aino,-apple-system, BlinkMacSystemFont, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-smooth: auto;
+}
+h1, h3, h5, code, em {
+    font-family: Aino;
+    font-smooth: auto;
+    font-style: italic;
+}
+
 </style>
