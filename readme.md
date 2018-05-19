@@ -5,19 +5,17 @@ footer: MIT Licensed | Copyright © 2018-present Tokin
 `UNDER DEVELOPMENT`
 <img src="https://hdwallsbox.com/wallpapers/m/12/mario-super-luigi-princess-peach-kart-nintendo-16-bit-m11390.jpg" style="width:100%; text-align: center">
 
+**_tokin_** is a real-time, real-world MMO game for building teams and finding opportunities within your interest groups. You'll win `crypto` for playing and be a part owner of the company!
+
 # Gaming Purposified
 
 You are a busy person. Overcoming obstacles and filtering through the noise is often burdensome and distracting. Insisting that with enough effort you'll achieve goals and such.
 
-This is true! But what if we gave you ways to work within way better odds?
-
-Tokin is a real-time, real-world MMO game for building teams and finding opportunities within your interest groups. You'll win `crypto` for playing and be a part owner of the company!
+This is true! But what if we gave you ways to work within better odds and delight?
 
 > It's important that we coalesce into purpose groups in order to best serve actual productivity. We recommend many social networks to extend fictions and fabricate intricate, titillatingly well-placed misnomers. Tokin is a _reality-based_ alternative due to serving specific purpose groups
 
-Achievements validated by peers from your purpose groups and attached to your group's permanent ledger. Your peers will notice how you are leveling up. The pursuit of purpose, in the form of a game.
-
-Aside from the game, think of Tokin as the extroverted Slack.
+Your achievements, validated by peers from your purpose groups, are attached to your group's immutable ledger. Peers are incentivized to notice how you are leveling up and vice versa. The pursuit of purpose, in a game with your peoples.
 
 <!-- Begin MailChimp Signup Form -->
 
@@ -100,8 +98,17 @@ If there's no rush: [admin@tokin.io](mailto:admin@tokin.io)
 ##
 
 ::: tip Thank You
-Austin, Dylan, Victoria, Alex, Nick, Pat, Erica, Tai, Eric, TiE, George, Mikey, Leo, Mark, Barbara, Michael, Melissa
+Austin, Dylan, Victoria, Alex, Nick, Pat, Erica, Tai, Eric, TiE, George, Mikey, Leo, Mark, Barbara, Michael, Melissa, Salah, Finn
 :::
+
+<div>
+<test/>
+<button @click="show = !show">
+    Show me the data
+</button>
+</div>
+
+<div v-if="show">{{joke ? joke : 'waiting...'}}</div>
 
 <style>
 .navbar .site-name {background:url(./assets/tokin_logo_big.png) no-repeat; color:rgba(0,0,0,0); background-size:100% auto; font-size: 3rem}
@@ -137,7 +144,10 @@ h1, h3, h5, code, em {
 <script>
 export default {
     data () {
-        return {joke: 'not funny'}
+        return {
+            joke: 'not funny',
+            show:false
+        }
     },
   mounted () {
     import('./node_modules/axios/').then(module => {

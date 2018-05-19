@@ -5,14 +5,16 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Whitepaper', link: '/whitepaper.md' },
-      //      { text: 'Game', link: '/game.md' },
+      { text: 'Laws', link: '/constitution.md' },
       { text: 'Join', link: '/join.md' },
       { text: 'Play Now', link: '/check-in.md' }
     ],
     sidebar: [
       ['/', 'Home'],
       ['/whitepaper.md', 'Whitepaper'],
-      ['/join.md', 'Join the fun']
+      ['/join.md', 'Join the fun'],
+      ['/constitution.md', 'The law'],
+      ['/check-in.md', 'Play Now']
     ]
   }
 }

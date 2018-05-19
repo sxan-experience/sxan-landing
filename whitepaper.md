@@ -17,7 +17,7 @@ sidebarDepth: 1
 
 ## Overview
 
-We offer a digital platform for self-awareness by analyzing activities in specific networks, communities, and interest groups. Tokin is introduced as a GAME to engage and retain players for the betterment of the players and the groups they contribute towards.
+We offer a digital platform for self-awareness by analyzing activities in specific networks, communities, and purpose groups. Tokin is introduced as a GAME to engage and retain players for the betterment of the players and the groups they contribute towards.
 
 Players join networks they care about because gameplay with purpose amongst peers gives validated reputations, trusted transactions, and transparent recognition of achievements.
 
@@ -40,7 +40,7 @@ Manipulators enjoy open-access to our hopes and dreams. They latch-on unnoticed 
 
 ### Social Impact
 
-In a world of general social networks, it’s hard to determine the true quality of community members. By isolating interest groups in their own networks, Tokin provides a superb layer of reputation management and meaningful connections, validated by the interest group, to support the shared goals of people and teams.
+In a world of general social networks, it’s hard to determine the true quality of community members. By isolating purpose groups in their own networks, Tokin provides a superb layer of reputation management and meaningful connections, validated by the purpose group, to support the shared goals of people and teams.
 
 This self-curated data is easier to aggregate, normalize, process, and analyze to return actionable insights to players in a feedback loop. Tokin consists of various machine learning strategies, both supervised and unsupervised. Certain benefits realized from this loop include rating systems for activities, personalities, biases, and detection of bad actors.
 
@@ -93,7 +93,7 @@ Shares - **Kin**: the players own 100% of the company's reserve _Kin_. My 1200 _
 
 Anyone can play and build Tokin. coins are rewarded in the game as achievement rewards. coins will also be paired on exchanges and we’ll include Atomic Swap technology soon.
 
-Interest groups choose the level of authentication necessary for operation. Players can stay anonymous in the meta-Tokin network (those building Tokin) or other groups with minimum identity requirements. Players have the ability to earn coins regardless of where or who they are, without the ability to interact in groups who demand higher levels of authentication.
+purpose groups choose the level of authentication necessary for operation. Players can stay anonymous in the meta-Tokin network (those building Tokin) or other groups with minimum identity requirements. Players have the ability to earn coins regardless of where or who they are, without the ability to interact in groups who demand higher levels of authentication.
 
 ### Decentralization
 
@@ -151,15 +151,15 @@ Alchemy of Creation, Design
 
 Topics of interest to discuss are detected by bots and delivered to interested players to escalate to their yeoman. Players vote whether any generated topics are important to them, and results are tallied to check if it’s an issue across networks or local to specific networks.
 
-If it’s a local issue, the interest group is free to legislate internally according to their own rules. If the issue is global, then it falls under the jurisdiction of the Assembly. Decisions are made by the Assembly -- a consensus of players and bots.
+If it’s a local issue, the purpose group is free to legislate internally according to their own rules. If the issue is global, then it falls under the jurisdiction of the Assembly. Decisions are made by the Assembly -- a consensus of players and bots.
 
-### Components of the Assembly
+### Parts of the Assembly
 
 * Components - Total Votes: All players / 2 (33.333%)  
-  Entities voted into the Assembly by a ¾ majority of interest group delegates and nominated by the Yeoman. Additions and retractions to this founder agreement are applied to appendices by a ⅔ majority of the Core. The Core can vote on possible courses of action and has votes equal to half the total number of players in all interest groups.
+  Entities voted into the Assembly by a ¾ majority of purpose group delegates and nominated by the Yeoman. Additions and retractions to this founder agreement are applied to appendices by a ⅔ majority of the Core. The Core can vote on possible courses of action and has votes equal to half the total number of players in all purpose groups.
 
-- Delegates - Total Votes: All players in interest group / 1 + 1 (66.667%)  
-  Each interest group chooses 1-3 delegates to the Assembly. Delegates also vote on decisions. Each interest group has one vote per verified player in their group, evenly divided among the representative delegates.
+- Delegates - Total Votes: All players in purpose group / 1 + 1 (66.667%)  
+  Each purpose group chooses 1-3 delegates to the Assembly. Delegates also vote on decisions. Each purpose group has one vote per verified player in their group, evenly divided among the representative delegates.
 
 - Yeomen - Total Votes: 0  
   The Yeomen are direct representatives of players. They have no Assembly votes and are the only Assembly members who can prioritize problems to discuss. For every 9 players across all networks, a sub-yeoman is randomly assigned. Then all sub-yeomen conduct a run-off vote for 3 sub-yeomen to become Yeomen.
@@ -168,7 +168,9 @@ If it’s a local issue, the interest group is free to legislate internally acco
 
 ## Blockchain type
 
-We built a fractal Graphchain using Erlang with a DAG (Directed Acyclic Graph) database architecture. Instead of a linear blockchain, this Graphchain gives the network powers and options to best achieve various goals and outcomes. Our implementation is best thought of as an immutable library covered in a decentralized nervous system.
+We remixed a fractal Graphchain using Erlang/Elixer with a DAG (Directed Acyclic Graph) ETS database architecture.
+
+Instead of a linear blockchain, this Graphchain gives the network powers and options to best achieve various goals and outcomes. Our implementation is best thought of as an immutable library covered in a decentralized nervous system.
 
 ## Protocols
 
@@ -208,7 +210,7 @@ Proof of Activity
 
 ### Proof of Continuum
 
-> Temporal signal-proofing strategy. Connections between n peers persistently stream bytes within deterministic patterns, such as Morse Code. This continuity stream is queried for validations, limited or extended as needs dictate, ultimately providing for instant trustless proofability.
+> Temporal signal-proofing strategy. Connections between n peers persistently stream bytes within deterministic patterns, such as _Morse Code_. This continuity stream is queried for validations, limited or extended as needs dictate, ultimately providing for instant trustless proofability.
 
 [INSERT GRAPHIC OF PROOF OF CONTINUUM]
 
@@ -220,17 +222,17 @@ Proof of Activity
 
 * Built prototype
 
-* Applied sales strategies to a test market
+* Market tests
 
 ### 2017
 
-* Assembled team to launch
+* Assembled team
 
-* Reconfigured app and team into a game
+* Heavy analysis
 
 ### 2018
 
-* Designed v2
+* Designed v2, game first
 
 * Developing testnet
 
@@ -269,7 +271,7 @@ Proof of Activity
 
 ### Token Type
 
-Hyperledger Sawtooth, proprietary open-source build.
+Erlang/Elixer, proprietary open-source build.
 
 [INSERT GRAPHIC OF BLOCKCHAINS W/ FEATURES v. COMPETITIVE TECH]
 
@@ -282,6 +284,8 @@ Hyperledger Sawtooth, proprietary open-source build.
 * shares are privately-traded shares in the company Tokin. In turn, the company is owned by a public trust made up of all players. Shares pay dividends via fiat currency. The Assembly creates, distributes, buys-back shares, and supervises refinement of the Flexuity algorithms for mitigating volatile external inflation/deflation, i.e. exchange and whale attacks.
 
 [INSERT GRAPHICS OF TOKEN USE]
+
+## Unfinished Work
 
 ### _Incentives and penalties_
 
