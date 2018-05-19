@@ -101,15 +101,6 @@ If there's no rush: [admin@tokin.io](mailto:admin@tokin.io)
 Austin, Dylan, Victoria, Alex, Nick, Pat, Erica, Tai, Eric, TiE, George, Mikey, Leo, Mark, Barbara, Michael, Melissa, Salah, Finn
 :::
 
-<!--
-<div>
-<test/>
-<button @click="show = !show">
-    Show me the data
-</button>
-</div>
-<div v-if="show">{{joke ? joke : 'waiting...'}}</div> -->
-
 <style>
 .navbar .site-name {background:url(./assets/tokin_logo_big.png) no-repeat; color:rgba(0,0,0,0); background-size:100% auto; font-size: 3rem}
 
