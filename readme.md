@@ -13,7 +13,7 @@ You are a busy person. Overcoming obstacles and filtering through the noise is o
 
 This is true! But what if we gave you ways to work within better odds?
 
-> It's important that we coalesce into purpose groups in order to best serve actual productivity. We recommend many social networks to extend fictions and fabricate intricate, titillatingly well-placed misnomers. Tokin is a _reality-based_ alternative because it serves purpose groups.
+> It's important that we coalesce into purpose groups in order to encourage productivity. We recommend many social networks to extend fictions and fabricate intricate, titillatingly well-placed misnomers. Tokin is a _reality-based_ alternative because it serves productivity to purpose groups.
 
 Your achievements, validated by peers from your purpose groups, are attached to _Tokin_'s immutable ledger. Peers are incentivized to notice how you are leveling up and vice versa. The pursuit of purpose, in a game with your peoples.
 
