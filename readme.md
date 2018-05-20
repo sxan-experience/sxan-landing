@@ -5,17 +5,17 @@ footer: MIT Licensed | Copyright © 2018-present Tokin
 `UNDER DEVELOPMENT`
 <img src="https://hdwallsbox.com/wallpapers/m/12/mario-super-luigi-princess-peach-kart-nintendo-16-bit-m11390.jpg" style="width:100%; text-align: center">
 
-**_tokin_** is a real-time, real-world MMO game for building teams and finding opportunities within your interest groups. You'll win `crypto` for playing and be a part owner of the company!
+**_tokin_** is a real-time, real-world MMO game for building teams and finding opportunities. Players network with people and bots within their purpose groups in order to level up, win `crypto`, and be an owner of Tokin.io , the company.
 
 # Gaming Purposified
 
 You are a busy person. Overcoming obstacles and filtering through the noise is often burdensome and distracting. Insisting that with enough effort you'll achieve goals and such.
 
-This is true! But what if we gave you ways to work within better odds and delight?
+This is true! But what if we gave you ways to work within better odds?
 
-> It's important that we coalesce into purpose groups in order to best serve actual productivity. We recommend many social networks to extend fictions and fabricate intricate, titillatingly well-placed misnomers. Tokin is a _reality-based_ alternative due to serving specific purpose groups
+> It's important that we coalesce into purpose groups in order to best serve actual productivity. We recommend many social networks to extend fictions and fabricate intricate, titillatingly well-placed misnomers. Tokin is a _reality-based_ alternative because it serves purpose groups.
 
-Your achievements, validated by peers from your purpose groups, are attached to your group's immutable ledger. Peers are incentivized to notice how you are leveling up and vice versa. The pursuit of purpose, in a game with your peoples.
+Your achievements, validated by peers from your purpose groups, are attached to _Tokin_'s immutable ledger. Peers are incentivized to notice how you are leveling up and vice versa. The pursuit of purpose, in a game with your peoples.
 
 <!-- Begin MailChimp Signup Form -->
 
@@ -43,20 +43,20 @@ Leveling up is desired because the software is designed to only allow access to 
 
 For example, all players can post articles and interact with the group but only level 12 players can post products, or only level 20 players can post courses, and only level 100 can actually post _Hustles_.
 
-Furthermore, the amount of potential to gain market exposure is fair and real-time calculations derive real-time rankings. So you can't just buy the top spot. It must be earned amongst fair competition.
+The potential to gain market exposure is fair and real-time calculations derive real-time rankings. You can't buy the top spot. It must be earned amongst fair competition.
 
 ## Why Tokin?
 
 ::: tip We're Fun and Considerate
 
-* 100% player-owned and operated
+* 100% player-owned and operated. For us, by us.
 * Builds teams using experiments and analysis
-* Uncovers opportunity with unstructured algos
+* Uncovers opportunity through network technology
   :::
 
 ### Privacy is a myth
 
-Who can operate in the shadows if we cast light everywhere? Who would feel ashamed being naked when everyone else is naked?
+Who can operate in the shadows if we cast light everywhere? How proactive can we be given enough intel?
 
 Tokin takes the stance that only what you don't say can remain private. What you do say is telling about who you are and what you believe in. These values help the community understand what you're about and what you need.
 
@@ -69,15 +69,15 @@ Every system of keeping secrets will eventually be cracked so the earlier we ado
 
 ### We are legion
 
-The very foundation of Tokin is a game and a game is the participation of players who agree to rules and contribute effort into the game. The equitable financial ownership is meritocrally bestowed to all players.
+The foundation of Tokin is a game. Participating players agree to rules and contribute towards the game. The equitable financial ownership is meritocratically bestowed to all player-owners based on each's respective contribution in relation to the whole. More on [The Law](/constitution.html)
 
 ### Find your place and position
 
-Use advanced analytic tools to save time networking and avoid trial-and-error. You'll choose from a list of great choices and activities instead of shooting in the dark.
+Use advanced analytic tools to save time networking and avoid trial-and-error. Choose from a list of great choices and activities instead of shooting in the dark.
 
 ## Let's connect
 
-The best way to get us to respond quickly is to make an issue on any of our Github repositories: [Tokin Software](https://github.com/tokin-systems/)
+The best way to get us to respond quickly is to make an issue on any of our Github repositories: [Tokin Software](https://github.com/tokin-systems/), btw even this activity is part of the game.
 
 If there's no rush: [admin@tokin.io](mailto:admin@tokin.io)
 
