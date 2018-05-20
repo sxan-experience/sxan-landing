@@ -22,8 +22,15 @@ module.exports = {
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     repoLabel: 'Contribute!',
+
     // Optional options for generating "Edit this page" link
-    // defaults to false, set to true to enable
+
+    // if your docs are in a different repo from your main project:
+    docsRepo: 'tokin-systems/tokin-landing',
+    // if your docs are not at the root of the repo:
+    docsDir: './',
+    // if your docs are in a specific branch (defaults to 'master'):
+    docsBranch: 'master',
     editLinks: true,
     // custom text for edit link. Defaults to "Edit this page"
     editLinkText: 'Improve this page, earn some Tok!'
