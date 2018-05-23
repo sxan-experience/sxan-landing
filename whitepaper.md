@@ -117,33 +117,33 @@ Show broad and specific feedback from an audience that is technologically-valida
 
 ## Development Team
 
-### Mark Candaras
+**Mark Candaras**
 
 Systems architect, full-stack developer
 
-### Eric Glassman
+**Eric Glassman**
 
 Javascript and Python Developer
 
-### Nick Traitorous
+**Nick Traitorous**
 
-Javascript, Manager
+Advisor, IT Management
 
-### Patrick Long
+**Patrick Long**
 
 C++, Javascript
 
-### Alexander MacNeill
+**Alexander MacNeill**
 
 Javascript, Automations
 
-### Austin Renauldi
+**Austin Renauldi**
 
 Narrative, Design
 
-### Dylan Korelich
+**Dylan Korelich**
 
-Alchemy of Creation, Design
+Advisor, Alchemy of Creation, Design
 
 ## Consensus
 
