@@ -1,5 +1,7 @@
 ---
 meta:
+  - name: google-site-verification
+    content: Sng6dxXl5V-HvfFd6zWBX6aBFq_vaJRB8XLHR9XzKYg
   - name: description
     content: tokin whitepaper
   - name: keywords
